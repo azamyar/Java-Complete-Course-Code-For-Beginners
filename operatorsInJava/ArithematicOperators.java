@@ -29,6 +29,7 @@ public class ArithematicOperators {
         int d = --a;
         System.out.println(c+ "   " +b);
         System.out.println(d+ "   " +a);
+		//Arithematic Oprators
 		
 		
 		
