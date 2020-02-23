@@ -1,4 +1,5 @@
 package objectOrientedProgramming;
+//code by Syed Azam Yar
 
 class Cat {
 	boolean hasFur;
